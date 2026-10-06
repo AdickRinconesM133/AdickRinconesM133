@@ -4,8 +4,6 @@
 
 **Backend Engineer · Go & Rust · Distributed Systems**
 
-I build real-time and money-moving systems that stay correct when things fail.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adickrincones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adickrincones/)
 [![Email](https://img.shields.io/badge/Email-rinconesadick%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rinconesadick@gmail.com)
 ![Location](https://img.shields.io/badge/Buenos_Aires-from_Nov_2026-74ACDF?style=flat-square&logo=googlemaps&logoColor=white)
