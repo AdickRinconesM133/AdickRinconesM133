@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adickrincones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adickrincones/)
 [![Email](https://img.shields.io/badge/Email-rinconesadick%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rinconesadick@gmail.com)
-![Location](https://img.shields.io/badge/Buenos_Aires-UTC--3-74ACDF?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Buenos_Aires,_Argentina-UTC--3-74ACDF?style=flat-square&logo=googlemaps&logoColor=white)
 ![Open to](https://img.shields.io/badge/Open_to-remote_backend_roles-2EA44F?style=flat-square)
 
 </div>
@@ -39,7 +39,7 @@ Ride-hailing and delivery startup in Venezuela, launching December 2026. I'm the
 
 ### 🎯 Looking for
 
-Remote backend roles in Go or Rust with US or European teams, especially payments/fintech, real-time systems or logistics. Based in Buenos Aires (UTC-3). English C2.
+Remote backend roles in Go or Rust with US or European teams, especially payments/fintech, real-time systems or logistics. Based in Buenos Aires City (CABA), Greater Buenos Aires, Argentina · UTC-3. English C2.
 
 ### 🧰 Stack
 
